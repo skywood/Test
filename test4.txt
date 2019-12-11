@@ -1,4 +1,0 @@
-haha
-test
-test git add
-test git commit -a
